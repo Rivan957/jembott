@@ -1,8 +1,8 @@
 # Check out https://docs.codemagic.io/getting-started/building-a-native-android-app/ for more information
 
 workflows:
-    android-app:
-        name: Android App
+    android-app:Rivan957
+        name:jembott
         scripts:
             - ./gradlew assembleDebug
         artifacts:
